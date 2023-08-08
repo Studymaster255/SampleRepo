@@ -1,3 +1,3 @@
 Sample line one
 Sample line two from git gui
-Sample new line from laptop
+Sample new line from laptop same line aappended by git gui
