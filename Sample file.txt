@@ -1,1 +1,2 @@
 Sample line one
+Sample line two from git gui
