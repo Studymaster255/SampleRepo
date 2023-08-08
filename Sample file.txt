@@ -2,5 +2,4 @@ Sample line one
 Sample line two from git gui
 Sample new line from laptop same line aappended by git gui
 sample line to create conflict from laptop
-
-
+3571c9a72f35949e6d47bdc6d7cd053b581c0ccf
