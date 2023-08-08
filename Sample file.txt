@@ -1,3 +1,4 @@
 Sample line one
 Sample line two from git gui
 Sample new line from laptop
+sample line to create conflict from laptop
